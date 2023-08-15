@@ -19,3 +19,4 @@ Personal website to host side projects and artwork in a creative and visual way
 * Data entry automation
     - CSV ingestion
     - Receipt scanner
+* Dune Analytics Dashboards
